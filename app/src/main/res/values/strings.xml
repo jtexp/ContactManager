@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContactManager</string>
+    <string name="new_contact">New Contact</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="middle_initial">Middle Initial</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="date_first_contact">Date of First Contact</string>
+    <string name="empty_contact_message">Contact information has an error.</string>
+    <string name="phone_wrong_format">Phone number must have 10 digits.</string>
+    <string name="first_name_missing">Contact must have a first name.</string>
+    <string name="last_name_missing">Contact must have a last name.</string>
+
+</resources>

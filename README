@@ -1,0 +1,8 @@
+John Popplewell
+App constructed for assignment in CS4V95 Android Applications
+
+Uses the Model, View, Presenter (MVP) user interface pattern to create a testable connection between
+the view and model via the presenter.  The presenter is unit tested.
+
+
+
